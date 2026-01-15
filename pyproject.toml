@@ -1,0 +1,10 @@
+[project]
+name = "mytorch"
+version = "0.1.0"
+description = "A nano library for training neural networks"
+authors = [
+    {name = "Mukesh Aryal", email = "mukeshnuwakot@gmail.com"}
+]
+dependencies = [
+    "numpy", 
+]
